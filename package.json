@@ -1,0 +1,26 @@
+{
+  "name": "botscripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "botscript.js",
+  "scripts": {
+    "start": "node botscript.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.9.0",
+    "ffmpeg": "0.0.4",
+    "node-gyp": "^5.0.2",
+    "node-opus": "^0.3.2",
+    "npm": "^6.10.1",
+    "pg": "^7.12.1",
+    "pm2": "^3.5.1",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^0.29.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
